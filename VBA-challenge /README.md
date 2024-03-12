@@ -4,6 +4,7 @@ This challenge used VBA to create a stock market analysis function.
 
 Function name: 
     stock_checker()
+
 Function description:
     The stock_checker() function groups metrics by ticker label and calculates the yearly change, percentage change and total stock volume for each of these grouped stocks.
     The stock with the greatest increase, greatest decrease and greatest total stock volume is also filtered from the results.
